@@ -95,10 +95,9 @@ function orderItem(itemID){
 	</tr>
 </table>
 <body onload="loadItems(items)">
-	<div id="loading"><br>Loading...
-    	<img src="http://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenpark%2C_Berlin-Mitte%2C_360x180%2C_160326%2C_ako.jpg" height="auto" width="100%></img>
-	<a href="./autoLoadTest.html">Catalog Load Tester</a>
-	</div>												      
+	<div id="loading"><br>Loading...</div>
+    	<img src="http://upload.wikimedia.org/wikipedia/commons/2/26/Invalidenpark%2C_Berlin-Mitte%2C_360x180%2C_160326%2C_ako.jpg" height="100%" width="100%" alt="Oops">
+	<a href="./autoLoadTest.html">Catalog Load Tester</a>											      
 </body>
 </html>
 
